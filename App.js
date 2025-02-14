@@ -1,7 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 import MapView from 'react-native-maps';
-import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import MapScreen from './screens/MapScreen';
 import MenuScreen from './screens/MenuScreen';
 import BottomSheet from './screens/BottomSheet';
